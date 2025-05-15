@@ -1,16 +1,18 @@
-# 狩獵計畫
+# [Global: HTML5 website template](http://buckymaler.com/global)
 
-## 專案介紹
-這是一個展示各類武器和魔物的網頁
+### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
 
-## 網頁連結
-[點我前往](https://rainyday52002.github.io/rainyday052002.github.io/index.html)
+Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
 
-## 頁面簡介
-'index.html':自我介紹
+The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
 
-## 使用技術
-HTML/CSS/GitHub Pages
+This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
-## 作者與聯絡方式
-陳廷宇，資科系，s1100715@gm.pu.edu.tw
+Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+
+[LIVE PREVIEW](http://buckymaler.com/global)
+
+## Misc:
+
+* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
+* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
